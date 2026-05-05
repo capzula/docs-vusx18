@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ot7egg.citysinglescommunity.com/sitemap.xml
